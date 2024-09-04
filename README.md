@@ -1,3 +1,3 @@
-# pametan_pise_tudu
+# To Do aplication written in dart using framework Flutter
 
-A new Flutter project.
+Posible to add, edit and remove tasks. 
